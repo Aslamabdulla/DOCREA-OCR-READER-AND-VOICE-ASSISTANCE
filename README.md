@@ -1,16 +1,67 @@
-# textscanner
+<!--
+Hey, thanks for using the awesome-readme-template template.  
+If you have any enhancements, then fork this project and create a pull request 
+or just open an issue with the label "enhancement".
 
-A new Flutter project.
+Don't forget to give this project a star for additional support ;)
+Maybe you can mention me or this repo in the acknowledgements too
+-->
+<div align="center">
 
-## Getting Started
+  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <h1>DOCREA OCR TEXT READER AND VOICE RECOGNITION</h1>
+  
+  <p>
+   AN OCR READER WITH VOICE TYPING
+  </p>
+  
+  
+<!-- Badges -->
 
-This project is a starting point for a Flutter application.
+ 
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- Table of Contents -->
+# DOCREA FUNCTIONALITIES
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## PACKAGES USED
+  - Getx
+  - Google ML Kit
+  - Image Picker
+  - Image Cropper
+  - Text To Speech
+  - Bottomnav With Sheet
+  - Clipboard
+  - GetX
+  - ACR Cloud (#Song identification api)
+  - Share Plus
+  - Curved Navigation Bar
+  - Google Fonts
+  - Slide To Confirm
+  <!-- About the Project -->
+    
+ 
+  ## FUNCTIONALITIES
+  - Scan Text Using Camera
+  - Scan Text In Storage Files
+  - Copy text
+  - Voice Typing
+  - Crop Images
+
+ 
+
+  
+
+<!-- About the Project -->
+## :star2: About the Project
+
+
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="assets/docrealogo.png" alt="screenshot" />
+</div>
+
